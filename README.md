@@ -1,2 +1,3 @@
-# cs202_DBMS
+# Database Management Systems
+
 Database Management Systems Project
